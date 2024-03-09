@@ -1,6 +1,6 @@
 # Guess-the-Number
 
-## Simple number guessing game made with nextjs
+## Simple web-based number guessing game made with nextjs
 
 ## Features:
 - Nextjs
