@@ -1,0 +1,26 @@
+.true-false{
+    font-size: xx-large;
+}
+
+.higher-lower{
+    font-size: xx-large;
+}
+
+.question-mark{
+    font-size: xx-large;
+}
+
+.input-box{
+    border: solid 0.1rem #FFFFFF;
+}
+
+@media only screen and (max-width: 600px){
+    .true-false{
+        margin: 1rem;
+        font-size: medium;
+    }
+    .higher-lower{
+        margin: 1rem;
+        font-size: medium;
+    }
+}
