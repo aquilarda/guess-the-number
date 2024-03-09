@@ -2,16 +2,20 @@
     font-size: xx-large;
 }
 
-.higher-lower{
-    font-size: xx-large;
-}
-
 .question-mark{
-    font-size: xx-large;
+    font-size: x-large;
 }
 
 .input-box{
     border: solid 0.1rem #FFFFFF;
+}
+
+.modeButton{
+    font-size: large;
+}
+
+.notes{
+    font-size: large;
 }
 
 @media only screen and (max-width: 600px){
@@ -19,8 +23,10 @@
         margin: 1rem;
         font-size: medium;
     }
-    .higher-lower{
-        margin: 1rem;
+    .modeButton{
+        font-size: medium;
+    }
+    .notes{
         font-size: medium;
     }
 }
